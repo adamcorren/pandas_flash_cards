@@ -1,12 +1,13 @@
 # Pandas Flash Cards
+Introducing my very first program, created with Excel and pandas.
 
-This is a basic program that uses pandas and excel files to create your own flash cards.
+This program utilizes pandas and Excel files to create custom flashcards.
 
 The program will keep track of your progress by tracking the following stats:
-- Number of time question has been asked
-- Questino success rate
-- Date of last attempt
 
+- Counting the number of times each question has been asked
+- Calculating the success rate for each question
+- Recording the date of the most recent attempt
 
 ## Prerequisite Software
 
@@ -40,8 +41,7 @@ When adding a new quesiton fill in the columns as follows:
 - CorrectP: 0
 - Last_Tried: leave blank
   
-The program will ask you a question as well as showing your last attempt result, number of tries, last date tried.
-You input your answer. The program will then display the correct answer and you answer if you got the correct answer with 'y' or 'n'. The program will then update the csv 'quesitons_answers' file and move on to the next quesiton
+The program will present you with a question and display the results of your last attempt, including the number of tries and the date of your most recent attempt. You will input your answer to the question. The program will reveal the correct answer and prompt you to indicate whether your answer was correct or not by entering 'y' for yes or 'n' for no. Based on your response, the program will update the 'question_answers' CSV file. The program will then proceed to the next question, repeating the process.
 
 
 
