@@ -30,7 +30,7 @@ Once you've installed the [prerequisites](#prerequisite-software), double click 
 ### Using the program
 Input your quesitons and answers in the 'question_answers' csv file. Make sure to save and close the csv file BEFORE running the program.
 
-The program will ask you a question as well as showing showing your last attempt result, number of tries, last date tried.
+The program will ask you a question as well as showing your last attempt result, number of tries, last date tried.
 You input your answer. The program will then display the correct answer and you answer if you got the correct answer with 'y' or 'n'. The program will then update the csv 'quesitons_answers' file and move on to the next quesiton
 
 
