@@ -12,7 +12,7 @@ The program will keep track of your progress by tracking the following stats:
 
 - [Python 3](https://www.python.org/) (make sure to add Python to PATH/environment variables when installing)
 - [pandas](https://pandas.pydata.org/)
-- [datetime]([https://github.com/SeleniumHQ/selenium/](https://docs.python.org/3/library/datetime.html))
+- [datetime](https://github.com/SeleniumHQ/selenium/](https://docs.python.org/3/library/datetime.html))
 
 
 ### Windows installation
