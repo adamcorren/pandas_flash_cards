@@ -22,7 +22,6 @@ def main():
         print('------------------------')
         
         while True:
-
             # did user get correct answer
             result = input('Did you get the question correct? (y/n): ')
             print('------------------------')
@@ -31,12 +30,10 @@ def main():
                 question[['Last_Try']] = True
                 question[['Number_Correct']] = question[['Number_Correct']]+1
                 break
-            
             if result == 'n':
                 question[['Last_Try']] = False
                 question[['Number_Incorrect']] = question[['Number_Incorrect']]+1
                 break
-
             else:
                 print('Invalid result, try again')
         
