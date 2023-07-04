@@ -1,7 +1,7 @@
 # Pandas Flash Cards
 #### Introducing my very first program, created with Excel and pandas.
 
-This program utilizes pandas and Excel files to create custom flashcards. The program will keep track of your progress by tracking the following stats:
+This program utilises pandas and Excel files to create custom flashcards. The program will keep track of your progress by tracking the following stats:
 
 - Counting the number of times each question has been asked
 - Calculating the success rate for each question
